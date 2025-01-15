@@ -1,7 +1,7 @@
 ch=0
 
 while(ch!=6):
-    print("Welcone to the Calculator!")
+    print("Welcome to the Calculator!")
     print("Choose any one of the given options")
     print("1: Addition \n2: Subtraction \n3:multipliation \n4:Division \n5:Modulus \n6:Exit")
 
